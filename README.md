@@ -7,7 +7,7 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologi
 - 🔭 Atualmente estou trabalhando em um projeto de automação, mas sem muitos detalhes por enquanto...
 - 🌱 Estou aprendendo mais sobre integração de sistemas e automação web com Selenium.
 - 💬 Pergunte-me sobre desenvolvimento de software, automação e integração de sistemas.
-- 📫 Você pode me encontrar em:
+- 📫 Onde me encontrar:
   - [Instagram](https://www.instagram.com/felz.db/)
   - [Linkedin](https://www.linkedin.com/in/felipe-doebber-bisotto-3aa631271/)
   - [Discord](https://discord.gg/NDFYBX3QK5)
