@@ -6,7 +6,7 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologi
 
 - 🔭 Atualmente estou trabalhando em um projeto de automação, mas sem muitos detalhes por enquanto...
 - 🌱 Estou aprendendo mais sobre integração de sistemas e automação web com Selenium.
-- 💬 Pergunte-me sobre desenvolvimento de software, automação e integração de sistemas.
+- 💬 Adoro conversar sobre ideias de negócios e preparar fluxos.
 - 📫 Onde me encontrar:
 <div style="display: inline_block"><br/>
   <a href="https://www.instagram.com/felz.db/">
