@@ -8,11 +8,17 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologi
 - 🌱 Estou aprendendo mais sobre integração de sistemas e automação web com Selenium.
 - 💬 Pergunte-me sobre desenvolvimento de software, automação e integração de sistemas.
 - 📫 Onde me encontrar:
-  <div style="display: inline_block"><br/>
-    <img align="center" href="https://www.instagram.com/felz.db/" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-    <img align="center" href="https://www.linkedin.com/in/felipe-doebber-bisotto-3aa631271/" alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    <img align="center" href="https://discord.gg/NDFYBX3QK5" alt="Discord Server" src="https://discordapp.com/api/guilds/[SERVER ID]/widget.png?style=shield"/>
-  </div>
+<div style="display: inline_block"><br/>
+  <a href="https://www.instagram.com/felz.db/">
+    <img align="center" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/felipe-doebber-bisotto-3aa631271/">
+    <img align="center" alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://discord.gg/NDFYBX3QK5">
+    <img align="center" alt="Discord Server" src="https://discordapp.com/api/guilds/[SERVER ID]/widget.png?style=shield"/>
+  </a>
+</div>
 
 ## Contribuições
 
