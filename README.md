@@ -15,9 +15,10 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologi
   <a href="https://www.linkedin.com/in/felipe-doebber-bisotto-3aa631271/">
     <img align="center" alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://discord.gg/NDFYBX3QK5">
+  <!--<a href="https://discord.gg/NDFYBX3QK5">
     <img align="center" alt="Discord Server" src="https://discordapp.com/api/guilds/NDFYBX3QK5/widget.png?style=shield"/>
   </a>
+  -->
 </div>
 
 ## Contribuições
