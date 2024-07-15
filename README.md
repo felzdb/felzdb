@@ -16,7 +16,7 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologi
     <img align="center" alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://discord.gg/NDFYBX3QK5">
-    <img align="center" alt="Discord Server" src="https://discordapp.com/api/guilds/[SERVER ID]/widget.png?style=shield"/>
+    <img align="center" alt="Discord Server" src="https://discordapp.com/api/guilds/NDFYBX3QK5/widget.png?style=shield"/>
   </a>
 </div>
 
