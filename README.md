@@ -4,7 +4,7 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologi
 
 ## Sobre mim
 
-- 🔭 Atualmente estou trabalhando em um projeto de automação, mas sem muitos detalhes por enquanto...
+- 🔭 Atualmente estou trabalhando em um projeto de carreira, mas sem muitos detalhes por enquanto...
 - 🌱 Estou aprendendo mais sobre integração de sistemas e automação web com Selenium.
 - 💬 Adoro conversar sobre ideias de negócios e preparar fluxos.
 - 📫 Onde me encontrar:
