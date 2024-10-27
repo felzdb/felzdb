@@ -44,6 +44,6 @@ Estou sempre aberto a ideias e futuros projetos para desenvolvimento. Sinta-se a
 
 ## Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=felzcrypt&show_icons=true&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=felzdb&show_icons=true&theme=radical)
 
 Obrigado por visitar meu perfil!
